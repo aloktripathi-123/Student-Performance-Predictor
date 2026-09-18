@@ -2,7 +2,6 @@
 
 ## Student Performance Prediction and Analysis Using Machine Learning
 
-### Submitted as a VITyarthi Build Your Own Project
 
 ---
 
@@ -10,8 +9,9 @@
 
 **Project Title:** Student Performance Prediction and Analysis Using Machine Learning
 
-**Student:** Alok Tripathi  
-**Program:** Integrated MTech  
+**Student:** Alok Tripathi 
+**Registration no:** 25MIM10137
+**Program:** Integrated MTech AI
 **Institution:** VIT Bhopal  
 
 ---
